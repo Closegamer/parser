@@ -1,0 +1,30 @@
+.mainContainer {
+  padding: 50px;
+  width: 70%;
+  box-shadow: 0px -4px 26px 0px grey;
+  margin: 0 auto;
+  border-radius: 4px;
+}
+
+.card {
+  padding: 50px;
+  margin-top: 20px;
+  width: 90%;
+  box-shadow: 0px 12px 29px -18px blue;
+  border-radius: 4px;
+}
+
+.image {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.text {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+a {
+  float: right !important;
+  text-decoration: none !important;
+}
